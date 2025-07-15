@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hola Soy Axel</h1>
+<h1 align="center"> Hola, Soy Alex</h1>
 
 <p align="center">
-  Estudiante de <strong>Tecnología en Desarrollo de Software</strong><br>
-  Apasionado por aprender, crear y colaborar en proyectos reales
+  Estudiante de <strong>Tecnología en Desarrollo de Software en la universidad UTE</strong><br>
+  Apasionado por aprender, crear y colaborar en proyectos reales enfocados en la programación
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 ## Lo que estoy aprendiendo actualmente
 
-- Desarrollo web con *Django, **Python, **HTML* y *JavaScript*
+- Aprendiendo Actualmente *Django, **Python, **HTML*,  **JavaScript*, *CSS*
 
 
 ---
@@ -127,39 +127,23 @@ Estoy compartiendo mis proyectos realizados en la universidad.
 
 ## 🤝 ¿Colaboramos?
 
-Estoy *abierto a colaboraciones*, proyectos educativos, open source o simplemente para compartir ideas y aprender en comunidad.
+Estoy abierto a participar en:
 
+🚀 Proyectos educativos
+
+💻 Iniciativas de código abierto (open source)
+
+🤝 Proyectos colaborativos en comunidad
+
+💡 Intercambios de ideas y mentorías
+
+Si tienes una propuesta, ¡estaré encantado de escucharla!
 ---
 ## ✨ Objetivo
 
-Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me permita *aprender de los mejores*, aportar con mis conocimientos y crecer como desarrollador.
+Mi meta es integrarme en un equipo que me rete profesionalmente, donde pueda:
 
----
-
-## 📈 Estadísticas
-
-<div align="center">
-  
-  # 📊 Mis Estadísticas de GitHub
-  
-  <a href="https://github.com/Axel-25-dg">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Axel-25-dg&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estadísticas de Axel"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axel-25-dg&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes principales"/>
-  </a>
-  
-  ## 🔥 Racha de Contribuciones
-  
-  <a href="https://github.com/Axel-25-dg">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Axel-25-dg&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
-  
-  ## 📈 Gráfico de Actividad
-  
-  <a href="https://github.com/Axel-25-dg">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Axel-25-dg&theme=tokyo-night&hide_border=true" alt="Gráfico de Actividad"/>
-  </a>
-  
-
+Aprender de personas con experiencia, aplicar y reforzar mis conocimientos y desarrollarme como profesional en el mundo del desarrollo de software
 
 ---
 
@@ -167,8 +151,8 @@ Estoy en búsqueda de un trabajo competitivo y una práctica profesional que me 
 
 Puedes encontrarme en:
 
-- ✉ Correo: alexander18br17@gmail.com
+- ✉ Correo: am9614843@gmail.com
 
 ---
 
-> 💬 Gracias por visitar mi perfil. ¡Estoy emocionado por lo que viene!
+>  Gracias por visitar mi perfil :).
