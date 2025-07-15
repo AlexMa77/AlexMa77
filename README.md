@@ -11,13 +11,16 @@
 
 <div align="center">
   <p>
-    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" style="margin: 0 10px;"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" style="margin: 0 10px;"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" style="margin: 0 10px;"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" alt="Django" style="margin: 0 10px;"/></a>&nbsp;&nbsp;&nbsp;
-    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" style="margin: 0 10px;"/></a>
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C"/></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/></a>&nbsp;&nbsp;
+    <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React"/></a>
   </p>
 </div>
+
 
 ---
 ## Certificados
