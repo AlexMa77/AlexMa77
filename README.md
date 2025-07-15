@@ -19,7 +19,7 @@
       text-align: center;
     }
     .section {
-      padding: 40px 20px;
+      padding: 30px 20px;
       max-width: 900px;
       margin: auto;
     }
@@ -29,21 +29,21 @@
     }
     .skills, .certificates {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-      gap: 20px;
+      grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+      gap: 15px;
       margin-top: 20px;
     }
     .skill, .certificate {
       background: white;
-      padding: 15px;
+      padding: 10px;
       border-radius: 10px;
       text-align: center;
       box-shadow: 0 2px 8px rgba(0,0,0,0.1);
     }
     .skill img, .certificate img {
-      width: 60px;
-      height: 60px;
-      margin-bottom: 10px;
+      width: 40px;
+      height: 40px;
+      margin-bottom: 8px;
     }
     footer {
       background: #282c34;
@@ -76,11 +76,11 @@
     <h2>Certificados</h2>
     <div class="certificates">
       <div class="certificate">
-        <img src="https://img.icons8.com/color/96/certificate.png" alt="Certificado 1"/>
+        <img src="https://img.icons8.com/color/48/certificate.png" alt="Certificado 1"/>
         <p><strong>[Nombre del Certificado]</strong><br/>[Institución]</p>
       </div>
       <div class="certificate">
-        <img src="https://img.icons8.com/color/96/certificate.png" alt="Certificado 2"/>
+        <img src="https://img.icons8.com/color/48/certificate.png" alt="Certificado 2"/>
         <p><strong>[Nombre del Certificado]</strong><br/>[Institución]</p>
       </div>
       <!-- Puedes duplicar este bloque para más certificados -->
