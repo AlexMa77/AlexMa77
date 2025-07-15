@@ -36,7 +36,7 @@
       <h3>Certificado de Machine Learning</h3>
       <p><strong>Institución:</strong> <a href="https://capacitacionescte.com/">Capacitaciones Técnicas del Ecuador</a></p>
       <p><strong>Fecha:</strong> 8 de febrero de 2025</p>
-      <p>🔗 <a href="https://drive.google.com/file/d/10xfECjxehZ3coh1XrbJXdELoxYLwRQoZ/view?usp=sharing" target="_blank">Ver certificado completo (PDF)</a></p>
+      <p>🔗 <a href="https://drive.google.com/file/d/11P3DJ4TA6LHU4ghgNMtbvJBBR-FMCXZI/view" target="_blank">Ver certificado completo (PDF)</a></p>
     </td>
   </tr>
 </table>
