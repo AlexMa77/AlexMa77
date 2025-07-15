@@ -33,9 +33,7 @@
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
-      <h3>Certificado de Machine Learning</h3>
-      <p><strong>Institución:</strong> <a href="https://capacitacionescte.com/">Capacitaciones Técnicas del Ecuador</a></p>
-      <p><strong>Fecha:</strong> 8 de febrero de 2025</p>
+      <h3>Certificado de FRONT END</h3>
       <p>🔗 <a href="https://drive.google.com/file/d/11P3DJ4TA6LHU4ghgNMtbvJBBR-FMCXZI/view" target="_blank">Ver certificado completo (PDF)</a></p>
     </td>
   </tr>
