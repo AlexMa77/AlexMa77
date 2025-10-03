@@ -29,7 +29,7 @@
   <tr>
     <td style="padding:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 8px;">
       <a href="https://drive.google.com/file/d/11P3DJ4TA6LHU4ghgNMtbvJBBR-FMCXZI/view" target="_blank">
-        <img src="https://i.postimg.cc/Yq5rSdFv/Certificado-de-Aprobacin-page-0001.jpg" alt="Certificado ML" width="250"/>
+        <img src="" alt="Certificado ML" width="250"/>
       </a>
     </td>
     <td style="vertical-align: middle; padding-left: 20px;">
